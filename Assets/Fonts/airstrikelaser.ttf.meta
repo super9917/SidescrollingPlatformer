@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8d1a600c36d8d014db8573cafe2b1e68
+timeCreated: 1513561558
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Airstrike Laser
+  fontNames:
+  - Airstrike Laser
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

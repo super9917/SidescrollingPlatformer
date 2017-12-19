@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 58dfc3e1088906a45831bcf022c1630b
+timeCreated: 1513561558
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Airstrike Half-Tone
+  fontNames:
+  - Airstrike Half-Tone
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
